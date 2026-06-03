@@ -6,7 +6,7 @@
   - [更详细的开关机执行任务信息](windows/enable_verbose_status.md)
 
 - **macOS**
-  - [鼠标滚轮控制 Dock 文件夹的展开](macOS/dock_scroll_to_open.md)
+  - [鼠标滚轮控制 Dock 文件夹展开](macOS/dock_scroll_to_open.md)
 
 - **OpenWrt**
   - [OpenWrt ext4 扩容](openwrt/openwrt_ext4_expand.md)
