@@ -1,5 +1,6 @@
 # 自用链接收藏夹
 
-Oh My Zsh：<https://ohmyz.sh/>
-
-PotPlayer：<https://potplayer.tv/>
+| 名称 | URL |
+| :--- | :--- |
+| **Oh My Zsh** | <https://ohmyz.sh/> |
+| **PotPlayer** | <https://potplayer.tv/> |
