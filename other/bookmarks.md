@@ -1,7 +1,5 @@
 # 自用链接收藏夹
 
-Oh My Zsh：
-[前往](https://ohmyz.sh/)
+Oh My Zsh：<https://ohmyz.sh/>
 
-PotPlayer：
-[前往](https://potplayer.tv/)
+PotPlayer：<https://potplayer.tv/>
