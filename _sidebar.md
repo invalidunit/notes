@@ -6,3 +6,4 @@
 
 - **其他**
   - [DHCP Options 说明](other/dhcp_options.md)
+  - [自用链接收藏夹](other/bookmarks.md)
