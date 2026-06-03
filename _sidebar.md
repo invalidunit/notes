@@ -1,6 +1,9 @@
 - **首页**
   - [首页](README.md)
 
+- **Windows**
+  - [让 Windows 将硬件时钟视为 UTC 时间](windows/RTC_to_UTC.md)
+
 - **OpenWrt**
   - [OpenWrt ext4 文件系统扩容](openwrt/openwrt_ext4_expand.md)
 
