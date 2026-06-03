@@ -1,5 +1,7 @@
 # bookmarks
 
-[Oh My Zsh](https://ohmyz.sh/)
+Oh My Zsh：
+[前往](https://ohmyz.sh/)
 
-[PotPlayer](https://potplayer.tv/)
+PotPlayer：
+[前往](https://potplayer.tv/)
