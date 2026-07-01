@@ -8,6 +8,9 @@
 - **macOS**
   - [鼠标滚轮控制 Dock 文件夹展开](macOS/dock_scroll_to_open.md)
 
+- **iOS**
+  - [注销时不锁屏](iOS/sb_dontlockaftercrash.md)
+
 - **OpenWrt**
   - [OpenWrt ext4 扩容](openwrt/openwrt_ext4_expand.md)
 
