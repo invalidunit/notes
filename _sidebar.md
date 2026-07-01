@@ -10,6 +10,7 @@
 
 - **iOS**
   - [注销时不锁屏](iOS/sb_dontlockaftercrash.md)
+  - [禁止低电量弹窗](iOS/sb_hidelowpoweralerts.md)
 
 - **OpenWrt**
   - [OpenWrt ext4 扩容](openwrt/openwrt_ext4_expand.md)
